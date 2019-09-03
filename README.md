@@ -1,8 +1,8 @@
-# Go In Chi - Product Biografie
+# Go In Chi - Design Rationale
 
 #### Student: Jamie Meester - 500732071 Begeleider: Marc Andrews Opdrachtgever: Go In Chi
 
-{% embed url="https://go-in-chi.gitbook.io/go-in-chi-design-rationale/" %}
+{% embed url="https://jamie-meester.gitbook.io/goinchi/" %}
 
 
 
